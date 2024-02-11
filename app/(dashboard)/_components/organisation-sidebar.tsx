@@ -19,8 +19,8 @@ export const OrgSidebar = () => {
       <Link href="/">
         <div className="flex gap-x-2 items-center">
           <Image src="/logo.svg" alt="logo" height={60} width={60} />
-          <span className={cn('font-semibold text-2xl', font.className)}>
-            Board
+          <span className={cn('font-semibold text-xl', font.className)}>
+            CollabFlow
           </span>
         </div>
       </Link>
