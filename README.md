@@ -56,3 +56,13 @@ npx convex dev
 ```bash
 npm run dev
 ```
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+[MIT](https://github.com/adityayaduvanshi/Collabflow?tab=MIT-1-ov-file#readme)
+
+
+## Contributing
+
+We welcome contributions! If you have ideas for new features, encounter bugs, or want to improve the documentation, please open an issue or submit a pull request.
